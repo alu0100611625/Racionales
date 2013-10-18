@@ -47,3 +47,6 @@ El error se encuentra en la línea 3 del código, la condición del while deber�
 
 
    2.3.) Escriba la dirección 'HTTP' del repositorio que contiene el desarrollo de su práctica.
+   
+   	ssh   -> git@github.com:alu0100611625/Racionales.git
+   	https -> https://github.com/alu0100611625/Racionales.git
