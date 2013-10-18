@@ -41,7 +41,7 @@ El error se encuentra en la línea 3 del código, la condición del while deber�
 
         s Avanzar línea (entrando a los métodos)
 
-      Ejecuté el programa utilizando el compilador, empece por listar su contenido y linea a linea 
+      Ejecuté el programa utilizando el depurador, empece por listar su contenido y linea a linea 
     comprobé su correcto funcionamiento, cuando encontré el error, lo reparé y procedí a comprobar 
     de nuevo su funcionamiento, con resultados satisfactorios
 
